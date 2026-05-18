@@ -71,7 +71,8 @@
     "ws": "$ws",
     "parse": "$parse",
     "form-data": "$form-data",
-    "@parse/push-adapter": "$@parse/push-adapter"
+    "@parse/push-adapter": "$@parse/push-adapter",
+    "mongodb": "^7.1.0"
   },
   "engines": {
     "node": "18 || 20 || 22"
